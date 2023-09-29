@@ -1,3 +1,7 @@
+# Fork
+
+This is my work on Golem's verifiable alethe proof production of LIA lin and nonlin Constrained Horn Clauses. 
+
 # Golem
 
 [![Join the chat at https://gitter.im/usi-verification-and-security/golem](https://badges.gitter.im/usi-verification-and-security/golem.svg)](https://gitter.im/usi-verification-and-security/golem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
